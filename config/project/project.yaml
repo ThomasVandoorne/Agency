@@ -1,0 +1,27 @@
+dateModified: 1671011102
+email:
+  fromEmail: thomas.vandoorne@student.howest.be
+  fromName: agency
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    7d27545e-9618-4303-8c44-281674ee08a8: agency # agency
+    568b898b-0700-4453-9720-6f82facd7a69: Common # Common
+    75024fbf-7982-4463-8aef-875b5c494cc8: agency # agency
+plugins:
+  vite:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: agency
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
