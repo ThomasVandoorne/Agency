@@ -1,0 +1,9 @@
+{% extends "_/layout/base.twig" %}
+
+{% block content %}
+
+{% set image = entry.foldImage.one() %}
+
+  <h1 class="">{{ entry.foldTitle }}</h1>
+  <img src="{{ image.url }}">
+{% endblock %}

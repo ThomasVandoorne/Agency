@@ -1,14 +1,40 @@
-dateModified: 1671011102
+dateModified: 1671039280
 email:
   fromEmail: thomas.vandoorne@student.howest.be
   fromName: agency
   transportType: craft\mail\transportadapters\Sendmail
+fs:
+  uploads:
+    hasUrls: true
+    name: Uploads
+    settings:
+      path: $IMAGES_PATH
+    type: craft\fs\Local
+    url: $IMAGES_URL
 meta:
   __names__:
+    6cdd3308-b983-4add-978c-6d0ebb84f14a: member # member
     7d27545e-9618-4303-8c44-281674ee08a8: agency # agency
+    26b9f32d-55f0-470c-b16c-8bfba250a0a7: 'Fold title' # Fold title
+    37d48be1-0a84-4ec8-adb6-fa4f840845f2: Team # Team
+    58fb83eb-858d-46fe-89b1-554c0b228b03: Uploads # Uploads
+    90fe0be3-9b1e-4106-bf88-b48a7465c2f5: Team # Team
+    96c0e878-1561-454d-9934-ce4afcd4834c: Home # Home
     568b898b-0700-4453-9720-6f82facd7a69: Common # Common
+    0590dbbe-c026-4398-87bd-fe00fa4af6fa: Function # Function
+    896d1639-72b8-4016-9655-e90448d87539: Members # Members
     75024fbf-7982-4463-8aef-875b5c494cc8: agency # agency
+    21038002-abbe-49d2-8d3e-1253f7f381e5: Home # Home
+    a0ce32e0-7818-4fdf-a0a3-3af17a2515d1: Team # Team
+    b75e31bf-0913-41b7-93ee-2925c7e907d6: photo # photo
+    e4f68ba6-b1ad-40d9-8e66-25f943be90a9: 'Fold image' # Fold image
+    eda9509c-70b1-40f8-b6c1-c390ad621de6: Home # Home
+    f0834417-81ef-4b86-83ef-a2eef2cbcc9e: nameMember # nameMember
 plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
   vite:
     edition: standard
     enabled: true

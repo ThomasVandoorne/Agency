@@ -1,0 +1,139 @@
+field: 896d1639-72b8-4016-9655-e90448d87539 # Members
+fieldLayouts:
+  64316ee2-63cb-4b84-bfe8-28ac8ad44903:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: b75e31bf-0913-41b7-93ee-2925c7e907d6 # photo
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 618e96f9-ef17-4cbd-8ad1-5521acec5280
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: f0834417-81ef-4b86-83ef-a2eef2cbcc9e # nameMember
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 53c1f80b-1dfb-4a3a-b6c5-061c74db32b5
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 0590dbbe-c026-4398-87bd-fe00fa4af6fa # Function
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4c23de26-6c37-41ed-9f27-30fe6b921c3f
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: b69c8b78-37f8-4412-af7e-3a0f868f6383
+        userCondition: null
+fields:
+  0590dbbe-c026-4398-87bd-fe00fa4af6fa: # Function
+    columnSuffix: yzkigqhi
+    contentColumnType: text
+    fieldGroup: null
+    handle: function
+    instructions: null
+    name: Function
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  b75e31bf-0913-41b7-93ee-2925c7e907d6: # photo
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: photo
+    instructions: null
+    name: photo
+    searchable: false
+    settings:
+      allowSelfRelations: false
+      allowSubfolders: false
+      allowUploads: true
+      allowedKinds:
+        - image
+      defaultUploadLocationSource: 'volume:58fb83eb-858d-46fe-89b1-554c0b228b03' # Uploads
+      defaultUploadLocationSubpath: null
+      localizeRelations: false
+      maxRelations: 1
+      minRelations: null
+      previewMode: full
+      restrictFiles: true
+      restrictLocation: false
+      restrictedDefaultUploadSubpath: null
+      restrictedLocationSource: 'volume:58fb83eb-858d-46fe-89b1-554c0b228b03' # Uploads
+      restrictedLocationSubpath: null
+      selectionCondition:
+        __assoc__:
+          -
+            - elementType
+            - craft\elements\Asset
+          -
+            - fieldContext
+            - global
+          -
+            - class
+            - craft\elements\conditions\assets\AssetCondition
+      selectionLabel: 'add a picture'
+      showSiteMenu: true
+      showUnpermittedFiles: false
+      showUnpermittedVolumes: false
+      source: null
+      sources:
+        - 'volume:58fb83eb-858d-46fe-89b1-554c0b228b03' # Uploads
+      targetSiteId: null
+      validateRelatedElements: false
+      viewMode: large
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Assets
+  f0834417-81ef-4b86-83ef-a2eef2cbcc9e: # nameMember
+    columnSuffix: axnhhfcq
+    contentColumnType: text
+    fieldGroup: null
+    handle: namemember
+    instructions: null
+    name: nameMember
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: member
+name: member
+sortOrder: 1

@@ -1,0 +1,54 @@
+:root {
+  --white: #fdfbf7;
+  --black: #333333;
+  --beige: #e9e5d9;
+}
+
+.html {
+  scroll-behavior: smooth;
+  font-family: joanefont;
+  line-height: 160%;
+}
+
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+@font-face {
+  font-family: "joanefont";
+  src: url(../fonts/Joane-Black.ttf);
+}
+
+img {
+  user-drag: none;
+  -webkit-user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+body {
+  background-color: var(--beige);
+  color: #333333;
+}
+
+header {
+  width: 100vw;
+  height: 10vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.header__link {
+  border: #333333 1px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
