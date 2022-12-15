@@ -1,16 +1,16 @@
 {% extends "_/layout/base.twig" %}
 
 {% block content %}
-  <h1>Team</h1>
-
-{% for member in entry.members.all() %}
-    {% set photo = member.photo.one() %}
-
-    <img src="{{photo.url}}" alt="">
-    <h2>{{member.namemember}}</h2>
-    <p>{{member.function}}</p>
-{% endfor %}
-
-
-
+<div class="members">
+    <h1 class="members__title">Our Team</h1>
+    {% for member in entry.members.all() %}
+        {% set photo = member.photo.one() %}
+    
+    <div class= "members__member">
+            <img class="members__member--img" src="{{photo.url}}" alt="">
+            <h3 class="members__member--name">{{member.namemember}}</h2>
+            <p class="members__member--function">{{member.function}}</p>
+    </div >
+    {% endfor %}
+</div>
 {% endblock %}

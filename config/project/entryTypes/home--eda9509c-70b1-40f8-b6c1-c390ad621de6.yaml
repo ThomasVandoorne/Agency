@@ -54,6 +54,18 @@ fieldLayouts:
             userCondition: null
             warning: null
             width: 100
+          -
+            elementCondition: null
+            fieldUid: f33f3627-6b49-4717-b33f-a74aa57fc237 # Fold text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 520da91a-556a-44df-8a04-ebe2b14d34f8
+            userCondition: null
+            warning: null
+            width: 100
         name: Content
         uid: 87a8749e-4eb9-4aa2-858e-95b85b344bd0
         userCondition: null

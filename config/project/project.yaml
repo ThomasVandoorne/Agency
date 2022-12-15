@@ -1,4 +1,4 @@
-dateModified: 1671039280
+dateModified: 1671122222
 email:
   fromEmail: thomas.vandoorne@student.howest.be
   fromName: agency
@@ -30,6 +30,7 @@ meta:
     e4f68ba6-b1ad-40d9-8e66-25f943be90a9: 'Fold image' # Fold image
     eda9509c-70b1-40f8-b6c1-c390ad621de6: Home # Home
     f0834417-81ef-4b86-83ef-a2eef2cbcc9e: nameMember # nameMember
+    f33f3627-6b49-4717-b33f-a74aa57fc237: 'Fold text' # Fold text
 plugins:
   redactor:
     edition: standard

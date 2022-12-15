@@ -1,0 +1,19 @@
+columnSuffix: msierqve
+contentColumnType: text
+fieldGroup: 96c0e878-1561-454d-9934-ce4afcd4834c # Home
+handle: foldText
+instructions: null
+name: 'Fold text'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 6
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

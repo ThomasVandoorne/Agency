@@ -4,6 +4,11 @@
 
 {% set image = entry.foldImage.one() %}
 
-  <h1 class="">{{ entry.foldTitle }}</h1>
-  <img src="{{ image.url }}">
+<div class="fold">
+    <h1 class="fold__title">{{ entry.foldTitle }}</h1>
+    <img class="fold__img"src="{{ image.url }}">
+    <div class="fold__text">
+      <p>{{entry.foldText | nl2br}}</p>
+    </div >
+</div >
 {% endblock %}
