@@ -7,7 +7,7 @@
         {% set photo = member.photo.one() %}
     
     <div class= "members__member">
-            <img class="members__member--img" src="{{photo.url}}" alt="">
+            <div class="member__container"><img class="members__member--img" src="{{photo.url}}" alt=""></div >
             <h3 class="members__member--name">{{member.namemember}}</h2>
             <p class="members__member--function">{{member.function}}</p>
     </div >

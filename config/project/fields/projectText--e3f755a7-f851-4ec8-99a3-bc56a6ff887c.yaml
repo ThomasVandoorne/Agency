@@ -1,9 +1,9 @@
-columnSuffix: msierqve
+columnSuffix: rvsvzivg
 contentColumnType: text
-fieldGroup: 96c0e878-1561-454d-9934-ce4afcd4834c # Home
-handle: foldText
+fieldGroup: ac229f29-9dc5-44d7-821f-943a7891c012 # Projects
+handle: projectText
 instructions: null
-name: 'Fold text'
+name: 'Project Text'
 searchable: false
 settings:
   availableTransforms: ''

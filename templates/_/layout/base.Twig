@@ -8,10 +8,13 @@
   </head>
   <body>
 <header>
-<a  class="header__link" href="https://agency.ddev.site"><p>Home</p></a>
-<a  class="header__link"><p>Our Projects</p></a>
-<a  class="header__link" href="team"><p>Our Team</p></a>
-<a  class="header__link"><p>Contact</p></a>
+  <nav> 
+    <a  class="header__link" href="{{siteUrl}}"><p>Home</p></a>
+    {% for link in navigation.navigationLinks.all() %}
+      {% set destination = link.linkDestination.one() %}
+      <a  class="header__link" href="{{ destination.url }}"><p>{{link.linkText}}</p></a>
+    {% endfor %}
+  </nav>
 </header>
 
     <div>
