@@ -31,7 +31,7 @@ fieldLayouts:
             width: 100
           -
             elementCondition: null
-            fieldUid: 0590dbbe-c026-4398-87bd-fe00fa4af6fa # Function
+            fieldUid: 0590dbbe-c026-4398-87bd-fe00fa4af6fa # job function
             instructions: null
             label: null
             required: true
@@ -45,26 +45,32 @@ fieldLayouts:
         uid: b69c8b78-37f8-4412-af7e-3a0f868f6383
         userCondition: null
 fields:
-  0590dbbe-c026-4398-87bd-fe00fa4af6fa: # Function
+  0590dbbe-c026-4398-87bd-fe00fa4af6fa: # job function
     columnSuffix: yzkigqhi
-    contentColumnType: text
+    contentColumnType: string
     fieldGroup: null
-    handle: function
+    handle: jobFunction
     instructions: null
-    name: Function
+    name: 'job function'
     searchable: false
     settings:
-      byteLimit: null
-      charLimit: null
-      code: false
-      columnType: null
-      initialRows: 4
-      multiline: false
-      placeholder: null
-      uiMode: normal
+      allowLimit: false
+      allowMultipleSources: false
+      allowSelfRelations: false
+      branchLimit: null
+      localizeRelations: false
+      maxRelations: null
+      minRelations: null
+      selectionLabel: null
+      showSiteMenu: true
+      source: 'group:f4068a68-e668-4058-a00b-bdaa140e3d1c' # job function
+      sources: '*'
+      targetSiteId: null
+      validateRelatedElements: false
+      viewMode: null
     translationKeyFormat: null
-    translationMethod: none
-    type: craft\fields\PlainText
+    translationMethod: site
+    type: craft\fields\Categories
   b75e31bf-0913-41b7-93ee-2925c7e907d6: # photo
     columnSuffix: null
     contentColumnType: string

@@ -210,7 +210,7 @@ footer {
 
 .project {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 1fr 3fr;
   border: #333333 1px solid;
 }
 
@@ -283,4 +283,22 @@ footer {
 .project__info {
   display: flex;
   line-height: 130%;
+}
+
+.project__text--worktype {
+  font-size: 20px;
+  padding-bottom: 1vh;
+}
+
+.members__member--button {
+  border: #333333 1px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  width: 100%;
+  height: 7.5vh;
+  background-color: var(--beige);
+  color: #333333;
+  text-decoration: underline;
 }

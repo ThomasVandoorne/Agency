@@ -1,0 +1,25 @@
+columnSuffix: rdwazosa
+contentColumnType: string
+fieldGroup: 074d68c4-1855-408f-8f32-cea5399b3664 # work
+handle: workType
+instructions: null
+name: 'work type'
+searchable: false
+settings:
+  allowLimit: false
+  allowMultipleSources: false
+  allowSelfRelations: false
+  branchLimit: 1
+  localizeRelations: false
+  maxRelations: null
+  minRelations: null
+  selectionLabel: null
+  showSiteMenu: true
+  source: 'group:358e8018-8fa2-4683-adbc-b21ada456d12' # work type
+  sources: '*'
+  targetSiteId: null
+  validateRelatedElements: false
+  viewMode: null
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Categories

@@ -9,6 +9,8 @@
          <img class="project__img" src="{{ project.projectImage.one().url }}" alt="">
             <div class="project__text">
                 <h2 class="project__text--title"> {{ project.title }}</h2>
+                {% set category = project.workType.one() %}
+                <p class="project__text--worktype">{{ category.title }}</p>
                <p  class="project__text--text">{{project.projectDescription}}</p>
                <button class="project__text--button"><a class="button" href ="{{project.url}}">More info → <a ></button
             </div >

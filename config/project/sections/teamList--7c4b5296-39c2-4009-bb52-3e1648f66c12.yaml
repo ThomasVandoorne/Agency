@@ -1,12 +1,12 @@
 defaultPlacement: end
 enableVersioning: true
-handle: team
-name: Team
+handle: teamList
+name: 'Team List'
 propagationMethod: all
 siteSettings:
   7d27545e-9618-4303-8c44-281674ee08a8: # agency
     enabledByDefault: true
     hasUrls: true
-    template: _/pages/team.twig
+    template: _/pages/team/team.twig
     uriFormat: team
 type: single
