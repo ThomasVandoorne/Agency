@@ -53,23 +53,19 @@ class __TwigTemplate_34452474f2b8b9a78e5ce60b993a0b92252d79cc4b49aa67c2a9589f87a
         echo "    <h1 class=\"project__title\"> ";
         echo twig_escape_filter($this->env, craft\helpers\Template::attribute($this->env, $this->source, (isset($context["entry"]) || array_key_exists("entry", $context) ? $context["entry"] : (function () { throw new RuntimeError('Variable "entry" does not exist.', 3, $this->source); })()), "title", []), "html", null, true);
         echo "</h1>
-                    <img src=\" ";
-        // line 4
-        echo twig_escape_filter($this->env, craft\helpers\Template::attribute($this->env, $this->source, (isset($context["entry"]) || array_key_exists("entry", $context) ? $context["entry"] : (function () { throw new RuntimeError('Variable "entry" does not exist.', 4, $this->source); })()), "contactImage", []), "html", null, true);
-        echo "\" alt=\"\">
         ";
-        // line 5
+        // line 4
         $context['_parent'] = $context;
-        $context['_seq'] = twig_ensure_traversable(craft\helpers\Template::attribute($this->env, $this->source, craft\helpers\Template::attribute($this->env, $this->source, (isset($context["entry"]) || array_key_exists("entry", $context) ? $context["entry"] : (function () { throw new RuntimeError('Variable "entry" does not exist.', 5, $this->source); })()), "socialMedia", []), "all", [], "method"));
+        $context['_seq'] = twig_ensure_traversable(craft\helpers\Template::attribute($this->env, $this->source, craft\helpers\Template::attribute($this->env, $this->source, (isset($context["entry"]) || array_key_exists("entry", $context) ? $context["entry"] : (function () { throw new RuntimeError('Variable "entry" does not exist.', 4, $this->source); })()), "socialMedia", []), "all", [], "method"));
         foreach ($context['_seq'] as $context["_key"] => $context["social"]) {
-            // line 6
+            // line 5
             echo "                <div class=\"socials\"> 
                 <img class=\"socials__img\" src=\"";
-            // line 7
+            // line 6
             echo twig_escape_filter($this->env, craft\helpers\Template::attribute($this->env, $this->source, craft\helpers\Template::attribute($this->env, $this->source, craft\helpers\Template::attribute($this->env, $this->source, $context["social"], "socialImage", []), "one", [], "method"), "url", []), "html", null, true);
             echo "\" alt=\"\">
                 <p>";
-            // line 8
+            // line 7
             echo twig_escape_filter($this->env, craft\helpers\Template::attribute($this->env, $this->source, $context["social"], "socialName", []), "html", null, true);
             echo "</p>
                 </div >
@@ -93,7 +89,7 @@ class __TwigTemplate_34452474f2b8b9a78e5ce60b993a0b92252d79cc4b49aa67c2a9589f87a
 
     public function getDebugInfo()
     {
-        return array (  73 => 8,  69 => 7,  66 => 6,  62 => 5,  58 => 4,  53 => 3,  48 => 2,  35 => 1,);
+        return array (  69 => 7,  65 => 6,  62 => 5,  58 => 4,  53 => 3,  48 => 2,  35 => 1,);
     }
 
     public function getSourceContext()
@@ -101,7 +97,6 @@ class __TwigTemplate_34452474f2b8b9a78e5ce60b993a0b92252d79cc4b49aa67c2a9589f87a
         return new Source("{% extends \"_/layout/base.twig\" %}
 {% block content %}
     <h1 class=\"project__title\"> {{ entry.title }}</h1>
-                    <img src=\" {{ entry.contactImage}}\" alt=\"\">
         {% for social in entry.socialMedia.all() %}
                 <div class=\"socials\"> 
                 <img class=\"socials__img\" src=\"{{ social.socialImage.one().url }}\" alt=\"\">

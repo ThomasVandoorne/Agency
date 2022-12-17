@@ -1,4 +1,0 @@
-enabledByDefault: true
-hasUrls: true
-template: _/pages/team/team.twig
-uriFormat: team

@@ -1,6 +1,0 @@
-defaultPlacement: end
-enableVersioning: true
-handle: projectsList
-name: 'Projects list'
-propagationMethod: all
-type: single

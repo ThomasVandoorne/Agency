@@ -1,4 +1,0 @@
-enabledByDefault: true
-hasUrls: true
-template: _/pages/projects/projects.twig
-uriFormat: projects

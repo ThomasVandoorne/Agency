@@ -1,4 +1,0 @@
-enabledByDefault: true
-hasUrls: true
-template: _/pages/home.twig
-uriFormat: __home__

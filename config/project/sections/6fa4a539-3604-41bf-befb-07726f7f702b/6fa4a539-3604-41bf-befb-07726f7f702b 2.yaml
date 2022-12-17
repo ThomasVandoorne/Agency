@@ -1,6 +1,0 @@
-defaultPlacement: end
-enableVersioning: true
-handle: team
-name: Team
-propagationMethod: all
-type: channel

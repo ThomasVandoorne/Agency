@@ -1,7 +1,6 @@
 {% extends "_/layout/base.twig" %}
 {% block content %}
     <h1 class="project__title"> {{ entry.title }}</h1>
-                    <img src=" {{ entry.contactImage}}" alt="">
         {% for social in entry.socialMedia.all() %}
                 <div class="socials"> 
                 <img class="socials__img" src="{{ social.socialImage.one().url }}" alt="">

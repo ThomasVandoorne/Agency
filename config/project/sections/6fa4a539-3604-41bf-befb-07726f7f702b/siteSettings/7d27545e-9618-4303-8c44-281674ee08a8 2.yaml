@@ -1,4 +1,0 @@
-enabledByDefault: true
-hasUrls: true
-template: _/pages/team/_entry.twig
-uriFormat: 'team/{slug}'
