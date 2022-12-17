@@ -1,0 +1,24 @@
+fieldLayouts:
+  3aa6464d-a9df-4aa8-964e-64ae50f79ccd:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: e3f755a7-f851-4ec8-99a3-bc56a6ff887c # global Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: e53dd3c2-593f-4634-9463-5d1972508c92
+            userCondition: null
+            warning: null
+            width: 100
+        name: content
+        uid: e442e4fb-f765-485d-9d0c-fb1c90a7086b
+        userCondition: null
+handle: footer
+name: footer
+sortOrder: 2

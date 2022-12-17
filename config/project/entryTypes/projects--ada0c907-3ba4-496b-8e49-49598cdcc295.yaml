@@ -68,7 +68,7 @@ fieldLayouts:
             width: 100
           -
             elementCondition: null
-            fieldUid: e3f755a7-f851-4ec8-99a3-bc56a6ff887c # Project Text
+            fieldUid: e3f755a7-f851-4ec8-99a3-bc56a6ff887c # global Text
             instructions: null
             label: null
             required: false

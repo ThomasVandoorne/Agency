@@ -4,5 +4,11 @@
 {% set team = nav[1] %}
 {% set dest = team.linkDestination.one()%}
 <div class="back"><a class="back__link" href=" {{dest.url}} ">←  Go Back </a ></div>
+<h1 class="project__title">{{entry.title}}</h1>
 
+<div class="project__info">
+    <img class="project__img"src=" {{entry.photo.one().url}} " alt="">
+    <div class="project__text"><p class="project__text--text">{{entry.jobFunction.one()}}</p>
+    <p>{{entry.memberInfo}}</p></div >
+</div >
 {% endblock %}

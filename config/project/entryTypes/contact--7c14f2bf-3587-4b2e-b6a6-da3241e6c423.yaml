@@ -30,11 +30,35 @@ fieldLayouts:
             userCondition: null
             warning: null
             width: 100
+          -
+            elementCondition: null
+            fieldUid: 71be2c8f-d8f8-48a6-80a5-69d9405a4c6e # Contact Image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: c334d70b-77d3-4609-bd8e-a593aa28c62c
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: f27f95b7-d0f8-4d42-889d-9c5fac6801e9 # Social Media
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 99fc79a3-a033-46e0-ac32-48697b3b3bbe
+            userCondition: null
+            warning: null
+            width: 100
         name: Content
         uid: 26ae5ff0-1c20-4996-8ca3-d39e352f5f51
         userCondition: null
 handle: contact
-hasTitleField: false
+hasTitleField: true
 name: Contact
 section: 721ca285-b527-4f49-a8a3-fe39d7bf6625 # Contact
 sortOrder: 1
