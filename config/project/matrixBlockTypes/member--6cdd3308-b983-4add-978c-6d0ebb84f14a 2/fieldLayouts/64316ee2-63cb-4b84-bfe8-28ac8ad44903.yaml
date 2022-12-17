@@ -1,0 +1,43 @@
+tabs:
+  -
+    elementCondition: null
+    elements:
+      -
+        elementCondition: null
+        fieldUid: b75e31bf-0913-41b7-93ee-2925c7e907d6 # photo
+        instructions: null
+        label: null
+        required: true
+        tip: null
+        type: craft\fieldlayoutelements\CustomField
+        uid: 618e96f9-ef17-4cbd-8ad1-5521acec5280
+        userCondition: null
+        warning: null
+        width: 100
+      -
+        elementCondition: null
+        fieldUid: f0834417-81ef-4b86-83ef-a2eef2cbcc9e # nameMember
+        instructions: null
+        label: null
+        required: true
+        tip: null
+        type: craft\fieldlayoutelements\CustomField
+        uid: 53c1f80b-1dfb-4a3a-b6c5-061c74db32b5
+        userCondition: null
+        warning: null
+        width: 100
+      -
+        elementCondition: null
+        fieldUid: 0590dbbe-c026-4398-87bd-fe00fa4af6fa # job function
+        instructions: null
+        label: null
+        required: true
+        tip: null
+        type: craft\fieldlayoutelements\CustomField
+        uid: 4c23de26-6c37-41ed-9f27-30fe6b921c3f
+        userCondition: null
+        warning: null
+        width: 100
+    name: Content
+    uid: b69c8b78-37f8-4412-af7e-3a0f868f6383
+    userCondition: null

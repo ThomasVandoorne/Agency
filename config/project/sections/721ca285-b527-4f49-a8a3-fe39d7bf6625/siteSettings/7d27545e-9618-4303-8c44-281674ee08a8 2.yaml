@@ -1,0 +1,4 @@
+enabledByDefault: true
+hasUrls: true
+template: _/pages/contact.twig
+uriFormat: contact

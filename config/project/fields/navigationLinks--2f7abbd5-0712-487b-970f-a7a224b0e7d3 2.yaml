@@ -1,0 +1,16 @@
+columnSuffix: jzudkxvf
+contentColumnType: string
+fieldGroup: 568b898b-0700-4453-9720-6f82facd7a69 # Common
+handle: navigationLinks
+instructions: null
+name: 'Navigation Links'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_navigationlinks}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

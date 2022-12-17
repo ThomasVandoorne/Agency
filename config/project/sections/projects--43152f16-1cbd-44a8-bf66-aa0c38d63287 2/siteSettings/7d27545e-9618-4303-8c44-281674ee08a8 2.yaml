@@ -1,0 +1,4 @@
+enabledByDefault: true
+hasUrls: true
+template: _/pages/projects/_entry.twig
+uriFormat: 'projects/{slug}'

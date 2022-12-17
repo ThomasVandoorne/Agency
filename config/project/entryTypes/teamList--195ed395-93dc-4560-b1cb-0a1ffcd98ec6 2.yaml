@@ -1,0 +1,67 @@
+fieldLayouts:
+  2f895bb2-caf0-4662-ab9f-636db69e9141:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: a2fde58d-b494-46c8-90d4-b8ac8eb9808d
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 07a8eb6f-a12f-4e37-83d5-227b019a9659 # Member photo
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 8033051e-7000-4071-8365-f5a0a33cb1aa
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 413e9232-5ded-4379-b6e5-cd9739d03a35 # Member function
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 8939033f-a7bd-4a90-82c9-03ca19bde42d
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: b54397f3-5ac4-4f66-9ece-82feee5a59ce
+        userCondition: null
+handle: teamList
+hasTitleField: true
+name: 'Team List'
+section: 7c4b5296-39c2-4009-bb52-3e1648f66c12 # Team List
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
