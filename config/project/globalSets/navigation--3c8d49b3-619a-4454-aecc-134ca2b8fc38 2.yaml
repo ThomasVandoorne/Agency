@@ -1,0 +1,24 @@
+fieldLayouts:
+  44a10915-5359-4406-b6aa-977a6f4f4600:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 2f7abbd5-0712-487b-970f-a7a224b0e7d3 # Navigation Links
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 5e27af2a-d0f2-4f1a-945f-06d0d4c73c09
+            userCondition: null
+            warning: null
+            width: 100
+        name: Links
+        uid: f06432a8-f855-4d03-b9aa-935861e54913
+        userCondition: null
+handle: navigation
+name: Navigation
+sortOrder: 1
