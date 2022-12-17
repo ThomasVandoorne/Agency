@@ -1,0 +1,223 @@
+a:2:{i:0;s:7325:"        Link
+      sortOrder:
+        1
++   'member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2':
++     field: 896d1639-72b8-4016-9655-e90448d87539
++     fieldLayouts:
++       64316ee2-63cb-4b84-bfe8-28ac8ad44903:
++         tabs:
++           -
++             elementCondition: null
++             elements:
++               -
++                 elementCondition: null
++                 fieldUid: b75e31bf-0913-41b7-93ee-2925c7e907d6
++                 instructions: null
++                 label: null
++                 required: true
++                 tip: null
++                 type: craft\fieldlayoutelements\CustomField
++                 uid: 618e96f9-ef17-4cbd-8ad1-5521acec5280
++                 userCondition: null
++                 warning: null
++                 width: 100
++               -
++                 elementCondition: null
++                 fieldUid: f0834417-81ef-4b86-83ef-a2eef2cbcc9e
++                 instructions: null
++                 label: null
++                 required: true
++                 tip: null
++                 type: craft\fieldlayoutelements\CustomField
++                 uid: 53c1f80b-1dfb-4a3a-b6c5-061c74db32b5
++                 userCondition: null
++                 warning: null
++                 width: 100
++               -
++                 elementCondition: null
++                 fieldUid: 0590dbbe-c026-4398-87bd-fe00fa4af6fa
++                 instructions: null
++                 label: null
++                 required: true
++                 tip: null
++                 type: craft\fieldlayoutelements\CustomField
++                 uid: 4c23de26-6c37-41ed-9f27-30fe6b921c3f
++                 userCondition: null
++                 warning: null
++                 width: 100
++             name: Content
++             uid: b69c8b78-37f8-4412-af7e-3a0f868f6383
++             userCondition: null
++     fields:
++       0590dbbe-c026-4398-87bd-fe00fa4af6fa:
++         columnSuffix: yzkigqhi
++         contentColumnType: string
++         fieldGroup: null
++         handle: jobFunction
++         instructions: null
++         name: 'job function'
++         searchable: false
++         settings:
++           allowLimit: false
++           allowMultipleSources: false
++           allowSelfRelations: false
++           branchLimit: null
++           localizeRelations: false
++           maxRelations: null
++           minRelations: null
++           selectionLabel: null
++           showSiteMenu: true
++           source: 'group:f4068a68-e668-4058-a00b-bdaa140e3d1c'
++           sources: '*'
++           targetSiteId: null
++           validateRelatedElements: false
++           viewMode: null
++         translationKeyFormat: null
++         translationMethod: site
++         type: craft\fields\Categories
++       b75e31bf-0913-41b7-93ee-2925c7e907d6:
++         columnSuffix: null
++         contentColumnType: string
++         fieldGroup: null
++         handle: photo
++         instructions: null
++         name: photo
++         searchable: false
++         settings:
++           allowSelfRelations: false
++           allowSubfolders: false
++           allowUploads: true
++           allowedKinds:
++             - image
++           defaultUploadLocationSource: 'volume:58fb83eb-858d-46fe-89b1-554c0b228b03'
++           defaultUploadLocationSubpath: null
++           localizeRelations: false
++           maxRelations: 1
++           minRelations: null
++           previewMode: full
++           restrictFiles: true
++           restrictLocation: false
++           restrictedDefaultUploadSubpath: null
++           restrictedLocationSource: 'volume:58fb83eb-858d-46fe-89b1-554c0b228b03'
++           restrictedLocationSubpath: null
++           selectionCondition:
++             __assoc__:
++               -
++                 - elementType
++                 - craft\elements\Asset
++               -
++                 - fieldContext
++                 - global
++               -
++                 - class
++                 - craft\elements\conditions\assets\AssetCondition
++           selectionLabel: 'add a picture'
++           showSiteMenu: true
++           showUnpermittedFiles: false
++           showUnpermittedVolumes: false
++           source: null
++           sources:
++             - 'volume:58fb83eb-858d-46fe-89b1-554c0b228b03'
++           targetSiteId: null
++           validateRelatedElements: false
++           viewMode: large
++         translationKeyFormat: null
++         translationMethod: site
++         type: craft\fields\Assets
++       f0834417-81ef-4b86-83ef-a2eef2cbcc9e:
++         columnSuffix: axnhhfcq
++         contentColumnType: text
++         fieldGroup: null
++         handle: namemember
++         instructions: null
++         name: nameMember
++         searchable: false
++         settings:
++           byteLimit: null
++           charLimit: null
++           code: false
++           columnType: null
++           initialRows: 4
++           multiline: false
++           placeholder: null
++           uiMode: normal
++         translationKeyFormat: null
++         translationMethod: none
++         type: craft\fields\PlainText
++     handle: member
++     name: member
++     sortOrder: 1
+  meta:
+    __names__:
+      2f7abbd5-0712-487b-970f-a7a224b0e7d3:
+...
+            __home__
+      type:
+        single
++   'home--21038002-abbe-49d2-8d3e-1253f7f381e5 2':
++     defaultPlacement: end
++     enableVersioning: true
++     handle: home
++     name: Home
++     propagationMethod: all
++     siteSettings:
++       7d27545e-9618-4303-8c44-281674ee08a8:
++         enabledByDefault: true
++         hasUrls: true
++         template: _/pages/home.twig
++         uriFormat: __home__
++     type: single
++   'projects--43152f16-1cbd-44a8-bf66-aa0c38d63287 2':
++     defaultPlacement: end
++     enableVersioning: true
++     handle: projects
++     name: Projects
++     propagationMethod: all
++     siteSettings:
++       7d27545e-9618-4303-8c44-281674ee08a8:
++         enabledByDefault: true
++         hasUrls: true
++         template: _/pages/projects/_entry.twig
++         uriFormat: 'projects/{slug}'
++     type: channel
++   'projectsList--330c05cf-fcec-4202-bf67-b50022950756 2':
++     defaultPlacement: end
++     enableVersioning: true
++     handle: projectsList
++     name: 'Projects list'
++     propagationMethod: all
++     siteSettings:
++       7d27545e-9618-4303-8c44-281674ee08a8:
++         enabledByDefault: true
++         hasUrls: true
++         template: _/pages/projects/projects.twig
++         uriFormat: projects
++     type: single
++   'team--6fa4a539-3604-41bf-befb-07726f7f702b 2':
++     defaultPlacement: end
++     enableVersioning: true
++     handle: team
++     name: Team
++     propagationMethod: all
++     siteSettings:
++       7d27545e-9618-4303-8c44-281674ee08a8:
++         enabledByDefault: true
++         hasUrls: true
++         template: _/pages/team/_entry.twig
++         uriFormat: 'team/{slug}'
++     type: channel
++   'teamList--7c4b5296-39c2-4009-bb52-3e1648f66c12 2':
++     defaultPlacement: end
++     enableVersioning: true
++     handle: teamList
++     name: 'Team List'
++     propagationMethod: all
++     siteSettings:
++       7d27545e-9618-4303-8c44-281674ee08a8:
++         enabledByDefault: true
++         hasUrls: true
++         template: _/pages/team/team.twig
++         uriFormat: team
++     type: single
+  siteGroups:
+    75024fbf-7982-4463-8aef-875b5c494cc8:";i:1;O:29:"yii\caching\ChainedDependency":4:{s:12:"dependencies";a:2:{i:0;O:32:"yii\caching\ExpressionDependency":4:{s:10:"expression";s:37:"Craft::$app->getInfo()->configVersion";s:6:"params";N;s:4:"data";s:12:"smjpdqpsextt";s:8:"reusable";b:0;}i:1;O:32:"yii\caching\ExpressionDependency":4:{s:10:"expression";s:81:"md5(craft\helpers\Json::encode(Craft::$app->getProjectConfig()->get(null, true)))";s:6:"params";N;s:4:"data";s:32:"38841b1032c5ba4d03d6c45253320932";s:8:"reusable";b:0;}}s:11:"dependOnAll";b:1;s:4:"data";N;s:8:"reusable";b:0;}}

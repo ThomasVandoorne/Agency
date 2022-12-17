@@ -1,0 +1,1 @@
+a:2:{i:0;a:2:{s:3:"cms";a:3:{s:6:"status";s:8:"eligible";s:8:"releases";a:0:{}s:11:"packageName";s:12:"craftcms/cms";}s:7:"plugins";a:2:{s:8:"redactor";a:3:{s:6:"status";s:8:"eligible";s:8:"releases";a:0:{}s:11:"packageName";s:17:"craftcms/redactor";}s:4:"vite";a:3:{s:6:"status";s:8:"eligible";s:8:"releases";a:0:{}s:11:"packageName";s:22:"nystudio107/craft-vite";}}}i:1;N;}
