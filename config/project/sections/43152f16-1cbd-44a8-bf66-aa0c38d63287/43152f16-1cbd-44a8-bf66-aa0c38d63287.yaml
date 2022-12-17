@@ -1,0 +1,6 @@
+defaultPlacement: end
+enableVersioning: true
+handle: projects
+name: Projects
+propagationMethod: all
+type: channel

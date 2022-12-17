@@ -3,7 +3,7 @@ contentColumnType: text
 fieldGroup: 37d48be1-0a84-4ec8-adb6-fa4f840845f2 # Team
 handle: memberName
 instructions: null
-name: 'member name'
+name: 'Member name'
 searchable: false
 settings:
   byteLimit: null

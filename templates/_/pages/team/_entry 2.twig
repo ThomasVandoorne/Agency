@@ -1,0 +1,8 @@
+{% extends "_/layout/base.twig" %}
+{% block content %}
+{% set nav = navigation.navigationLinks.all() %}
+{% set team = nav[1] %}
+{% set dest = team.linkDestination.one()%}
+<div class="back"><a class="back__link" href=" {{dest.url}} ">←  Go Back </a ></div>
+
+{% endblock %}

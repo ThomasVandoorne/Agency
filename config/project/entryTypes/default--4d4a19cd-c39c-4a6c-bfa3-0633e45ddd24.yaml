@@ -32,7 +32,7 @@ fieldLayouts:
             width: 100
           -
             elementCondition: null
-            fieldUid: 07a8eb6f-a12f-4e37-83d5-227b019a9659 # photo
+            fieldUid: 07a8eb6f-a12f-4e37-83d5-227b019a9659 # member photo
             instructions: null
             label: null
             required: false
@@ -44,7 +44,7 @@ fieldLayouts:
             width: 100
           -
             elementCondition: null
-            fieldUid: 413e9232-5ded-4379-b6e5-cd9739d03a35 # job function
+            fieldUid: 413e9232-5ded-4379-b6e5-cd9739d03a35 # Member function
             instructions: null
             label: null
             required: false

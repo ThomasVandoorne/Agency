@@ -1,4 +1,4 @@
-dateModified: 1671232294
+dateModified: 1671235017
 email:
   fromEmail: thomas.vandoorne@student.howest.be
   fromName: agency
@@ -16,9 +16,8 @@ meta:
     2f7abbd5-0712-487b-970f-a7a224b0e7d3: 'Navigation Links' # Navigation Links
     3c8d49b3-619a-4454-aecc-134ca2b8fc38: Navigation # Navigation
     4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24: Default # Default
-    6cdd3308-b983-4add-978c-6d0ebb84f14a: member # member
     6fa4a539-3604-41bf-befb-07726f7f702b: Team # Team
-    07a8eb6f-a12f-4e37-83d5-227b019a9659: photo # photo
+    07a8eb6f-a12f-4e37-83d5-227b019a9659: 'Member photo' # member photo
     7c4b5296-39c2-4009-bb52-3e1648f66c12: 'Team List' # Team List
     7c14f2bf-3587-4b2e-b6a6-da3241e6c423: Contact # Contact
     7cdda45a-f36b-4596-881d-1d591c64419b: 'work type' # work type
@@ -34,11 +33,10 @@ meta:
     279a85b7-7d64-48cb-ab59-300389993774: 'Link Destination' # Link Destination
     330c05cf-fcec-4202-bf67-b50022950756: 'Projects list' # Projects list
     358e8018-8fa2-4683-adbc-b21ada456d12: 'work type' # work type
-    413e9232-5ded-4379-b6e5-cd9739d03a35: 'job function' # job function
+    413e9232-5ded-4379-b6e5-cd9739d03a35: 'Member function' # Member function
     568b898b-0700-4453-9720-6f82facd7a69: Common # Common
     0590dbbe-c026-4398-87bd-fe00fa4af6fa: 'job function' # job function
     721ca285-b527-4f49-a8a3-fe39d7bf6625: Contact # Contact
-    896d1639-72b8-4016-9655-e90448d87539: Members # Members
     43152f16-1cbd-44a8-bf66-aa0c38d63287: Projects # Projects
     75024fbf-7982-4463-8aef-875b5c494cc8: agency # agency
     21038002-abbe-49d2-8d3e-1253f7f381e5: Home # Home
@@ -49,7 +47,7 @@ meta:
     b625fb03-11a3-4712-a711-a4c007b7e680: 'Project Image' # Project Image
     ba82a41d-6a09-4965-8f13-2f8e7bc2f30e: Link # Link
     cdce4c0f-87d5-4cbe-9ef1-6dc9f3ad5790: 'Project Description' # Project Description
-    de13cde3-d04b-4fdc-a675-895021e61985: 'member name' # member name
+    de13cde3-d04b-4fdc-a675-895021e61985: 'Member name' # Member name
     e3f755a7-f851-4ec8-99a3-bc56a6ff887c: 'Project Text' # Project Text
     e4f68ba6-b1ad-40d9-8e66-25f943be90a9: 'Fold image' # Fold image
     eda9509c-70b1-40f8-b6c1-c390ad621de6: Home # Home

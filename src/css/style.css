@@ -47,11 +47,6 @@ a:active {
   width: 1px;
 }
 
-@font-face {
-  font-family: "joanefont";
-  src: url(../fonts/Joane-Black.ttf);
-}
-
 img {
   user-drag: none;
   -webkit-user-drag: none;

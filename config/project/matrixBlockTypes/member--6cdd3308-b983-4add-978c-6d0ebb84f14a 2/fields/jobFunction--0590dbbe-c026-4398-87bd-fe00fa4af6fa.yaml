@@ -1,0 +1,25 @@
+columnSuffix: yzkigqhi
+contentColumnType: string
+fieldGroup: null
+handle: jobFunction
+instructions: null
+name: 'job function'
+searchable: false
+settings:
+  allowLimit: false
+  allowMultipleSources: false
+  allowSelfRelations: false
+  branchLimit: null
+  localizeRelations: false
+  maxRelations: null
+  minRelations: null
+  selectionLabel: null
+  showSiteMenu: true
+  source: 'group:f4068a68-e668-4058-a00b-bdaa140e3d1c' # job function
+  sources: '*'
+  targetSiteId: null
+  validateRelatedElements: false
+  viewMode: null
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Categories

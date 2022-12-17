@@ -3,7 +3,7 @@ contentColumnType: string
 fieldGroup: 37d48be1-0a84-4ec8-adb6-fa4f840845f2 # Team
 handle: photo
 instructions: null
-name: photo
+name: 'Member photo'
 searchable: false
 settings:
   allowSelfRelations: false
@@ -34,7 +34,7 @@ settings:
         - class
         - craft\elements\conditions\assets\AssetCondition
   selectionLabel: null
-  showSiteMenu: false
+  showSiteMenu: true
   showUnpermittedFiles: false
   showUnpermittedVolumes: false
   source: null

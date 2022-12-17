@@ -3,7 +3,7 @@ contentColumnType: string
 fieldGroup: 37d48be1-0a84-4ec8-adb6-fa4f840845f2 # Team
 handle: jobFunction
 instructions: null
-name: 'job function'
+name: 'Member function'
 searchable: false
 settings:
   allowLimit: false
@@ -14,7 +14,7 @@ settings:
   maxRelations: null
   minRelations: null
   selectionLabel: null
-  showSiteMenu: false
+  showSiteMenu: true
   source: 'group:f4068a68-e668-4058-a00b-bdaa140e3d1c' # job function
   sources: '*'
   targetSiteId: null

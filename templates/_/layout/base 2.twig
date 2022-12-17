@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ craft.app.language }}">
+  <head>
+    <meta charset="utf-8"/>
+    <title>{{ siteName }}</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    {{ craft.vite.script("src/js/app.js") }}
+  </head>
+  <body>
+<header>
+  <nav> 
+    <a  class="header__link" href="{{siteUrl}}"><p>Home</p></a>
+    {% for link in navigation.navigationLinks.all() %}
+      {% set destination = link.linkDestination.one() %}
+      <a  class="header__link" href="{{ destination.url }}"><p>{{link.linkText}}</p></a>
+    {% endfor %}
+  </nav>
+</header>
+
+    <div>
+      {% block content %}
+      
+      {% endblock %}
+    </div>
+    <footer>
+  <p>test</p>
+    </footer>
+  </body>
