@@ -1,0 +1,19 @@
+columnSuffix: hqalniew
+contentColumnType: text
+fieldGroup: ac229f29-9dc5-44d7-821f-943a7891c012 # Projects
+handle: projectName
+instructions: null
+name: 'Project name'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

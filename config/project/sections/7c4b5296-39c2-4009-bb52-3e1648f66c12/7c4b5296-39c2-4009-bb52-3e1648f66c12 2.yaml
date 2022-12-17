@@ -1,0 +1,6 @@
+defaultPlacement: end
+enableVersioning: true
+handle: teamList
+name: 'Team List'
+propagationMethod: all
+type: single

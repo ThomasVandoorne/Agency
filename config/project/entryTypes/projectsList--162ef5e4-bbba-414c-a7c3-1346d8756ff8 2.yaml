@@ -1,0 +1,79 @@
+fieldLayouts:
+  72ddbfb2-33d6-4cea-aa36-c8ad14e81d89:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: aa04fba2-6033-41cf-8be0-daceabef7035
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 7cdda45a-f36b-4596-881d-1d591c64419b # work type
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d00c48bc-eebd-4b93-bb9c-ffe31a7fd061
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: b625fb03-11a3-4712-a711-a4c007b7e680 # Project Image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 20180000-4bdc-4a16-956e-bb07c19ff11f
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: cdce4c0f-87d5-4cbe-9ef1-6dc9f3ad5790 # Project Description
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a3ae0dfb-48b9-41a0-8fe9-3d433b69627b
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 75b1f42c-8132-400d-ab47-70125179f7a9
+        userCondition: null
+handle: projectsList
+hasTitleField: false
+name: 'Projects list'
+section: 330c05cf-fcec-4202-bf67-b50022950756 # Projects list
+sortOrder: 1
+titleFormat: '{section.name|raw}'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
