@@ -1,0 +1,67 @@
+dateApplied: '2022-12-16 15:02:26'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1671231720
+        to: 1671231746
+  -
+    added:
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.defaultPlacement: end
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.enableVersioning: true
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.handle: teamList
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.name: 'Team List'
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.propagationMethod: all
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.enabledByDefault: true
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.hasUrls: true
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.template: team-list/_entry
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.uriFormat: 'team-list/{slug}'
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.type: channel
+    message: 'Save section “teamList”'
+  -
+    added:
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elementCondition: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.autocapitalize: true
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.autocomplete: false
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.autocorrect: true
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.class: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.disabled: false
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.elementCondition: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.id: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.instructions: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.label: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.max: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.min: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.name: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.orientation: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.placeholder: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.readonly: false
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.requirable: false
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.size: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.step: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.tip: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.title: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.type: craft\fieldlayoutelements\entries\EntryTitleField
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.uid: a2fde58d-b494-46c8-90d4-b8ac8eb9808d
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.userCondition: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.warning: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.elements.0.width: 100
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.name: Content
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.uid: b54397f3-5ac4-4f66-9ece-82feee5a59ce
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.fieldLayouts.2f895bb2-caf0-4662-ab9f-636db69e9141.tabs.0.userCondition: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.handle: default
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.hasTitleField: true
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.name: Default
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.section: 7c4b5296-39c2-4009-bb52-3e1648f66c12
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.sortOrder: 1
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.titleFormat: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.titleTranslationKeyFormat: null
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.titleTranslationMethod: site
+    message: 'Save entry type “default”'
+  -
+    added:
+      meta.__names__.7c4b5296-39c2-4009-bb52-3e1648f66c12: 'Team List'
+  -
+    added:
+      meta.__names__.195ed395-93dc-4560-b1cb-0a1ffcd98ec6: Default

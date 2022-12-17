@@ -1,0 +1,22 @@
+dateApplied: '2022-12-16 15:56:33'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1671234985
+        to: 1671234993
+  -
+    message: 'Save field “jobFunction”'
+    changed:
+      fields.413e9232-5ded-4379-b6e5-cd9739d03a35.name:
+        from: 'job function'
+        to: 'member function'
+      fields.413e9232-5ded-4379-b6e5-cd9739d03a35.settings.showSiteMenu:
+        from: false
+        to: true
+  -
+    changed:
+      meta.__names__.413e9232-5ded-4379-b6e5-cd9739d03a35:
+        from: 'job function'
+        to: 'member function'

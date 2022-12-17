@@ -1,0 +1,67 @@
+dateApplied: '2022-12-16 15:04:31'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1671231821
+        to: 1671231871
+  -
+    added:
+      sections.6fa4a539-3604-41bf-befb-07726f7f702b.defaultPlacement: end
+      sections.6fa4a539-3604-41bf-befb-07726f7f702b.enableVersioning: true
+      sections.6fa4a539-3604-41bf-befb-07726f7f702b.handle: team
+      sections.6fa4a539-3604-41bf-befb-07726f7f702b.name: Team
+      sections.6fa4a539-3604-41bf-befb-07726f7f702b.propagationMethod: all
+      sections.6fa4a539-3604-41bf-befb-07726f7f702b.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.enabledByDefault: true
+      sections.6fa4a539-3604-41bf-befb-07726f7f702b.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.hasUrls: true
+      sections.6fa4a539-3604-41bf-befb-07726f7f702b.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.template: _/pages/team/_entry.twig
+      sections.6fa4a539-3604-41bf-befb-07726f7f702b.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.uriFormat: 'team/{slug}'
+      sections.6fa4a539-3604-41bf-befb-07726f7f702b.type: channel
+    message: 'Save section “team”'
+  -
+    added:
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elementCondition: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.autocapitalize: true
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.autocomplete: false
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.autocorrect: true
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.class: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.disabled: false
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.elementCondition: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.id: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.instructions: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.label: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.max: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.min: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.name: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.orientation: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.placeholder: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.readonly: false
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.requirable: false
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.size: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.step: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.tip: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.title: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.type: craft\fieldlayoutelements\entries\EntryTitleField
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.uid: 4f7e9d7f-49c8-4e02-abbe-b3ad991bb62a
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.userCondition: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.warning: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.elements.0.width: 100
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.name: Content
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.uid: 9edd764d-1ce2-4cf2-9c8c-1b24f9d57661
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.fieldLayouts.47f38a38-dfad-4390-ab28-4295423b081d.tabs.0.userCondition: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.handle: default
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.hasTitleField: true
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.name: Default
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.section: 6fa4a539-3604-41bf-befb-07726f7f702b
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.sortOrder: 1
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.titleFormat: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.titleTranslationKeyFormat: null
+      entryTypes.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24.titleTranslationMethod: site
+    message: 'Save entry type “default”'
+  -
+    added:
+      meta.__names__.6fa4a539-3604-41bf-befb-07726f7f702b: Team
+  -
+    added:
+      meta.__names__.4d4a19cd-c39c-4a6c-bfa3-0633e45ddd24: Default

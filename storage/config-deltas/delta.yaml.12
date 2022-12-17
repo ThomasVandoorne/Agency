@@ -1,0 +1,34 @@
+dateApplied: '2022-12-17 01:36:12'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1671269739
+        to: 1671269772
+  -
+    message: 'Save field “globalText”'
+    changed:
+      fields.e3f755a7-f851-4ec8-99a3-bc56a6ff887c.fieldGroup:
+        from: ac229f29-9dc5-44d7-821f-943a7891c012
+        to: 568b898b-0700-4453-9720-6f82facd7a69
+      fields.e3f755a7-f851-4ec8-99a3-bc56a6ff887c.handle:
+        from: projectText
+        to: globalText
+      fields.e3f755a7-f851-4ec8-99a3-bc56a6ff887c.name:
+        from: 'Project Text'
+        to: 'global Text'
+      fields.e3f755a7-f851-4ec8-99a3-bc56a6ff887c.settings.availableTransforms:
+        from: null
+        to: ''
+      fields.e3f755a7-f851-4ec8-99a3-bc56a6ff887c.settings.defaultTransform:
+        from: null
+        to: ''
+      fields.e3f755a7-f851-4ec8-99a3-bc56a6ff887c.settings.manualConfig:
+        from: null
+        to: ''
+  -
+    changed:
+      meta.__names__.e3f755a7-f851-4ec8-99a3-bc56a6ff887c:
+        from: 'Project Text'
+        to: 'global Text'

@@ -1,0 +1,40 @@
+dateApplied: '2022-12-17 01:05:08'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1671235017
+        to: 1671267908
+  -
+    added:
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.columnSuffix: tbbxncys
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.contentColumnType: text
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.fieldGroup: 568b898b-0700-4453-9720-6f82facd7a69
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.handle: memberInfo
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.instructions: null
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.name: 'Member Info'
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.searchable: false
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.availableTransforms: ''
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.availableVolumes: '*'
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.columnType: text
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.configSelectionMode: choose
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.defaultTransform: ''
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.manualConfig: ''
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.purifierConfig: null
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.purifyHtml: true
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.redactorConfig: null
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.removeEmptyTags: false
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.removeInlineStyles: false
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.removeNbsp: false
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.showHtmlButtonForNonAdmins: true
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.showUnpermittedFiles: false
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.showUnpermittedVolumes: false
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.settings.uiMode: enlarged
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.translationKeyFormat: null
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.translationMethod: none
+      fields.d4af281b-9b46-4731-a2c3-bb5382fa6ca2.type: craft\redactor\Field
+    message: 'Save field “memberInfo”'
+  -
+    added:
+      meta.__names__.d4af281b-9b46-4731-a2c3-bb5382fa6ca2: 'Member Info'

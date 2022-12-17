@@ -1,0 +1,37 @@
+dateApplied: '2022-12-16 15:03:07'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1671231780
+        to: 1671231787
+  -
+    message: 'Save section “teamList”'
+    changed:
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.hasUrls:
+        from: true
+        to: false
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.template:
+        from: _/pages/team/team.twig
+        to: null
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.uriFormat:
+        from: team
+        to: null
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.type:
+        from: channel
+        to: single
+  -
+    message: 'Save entry type “teamList”'
+    changed:
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.handle:
+        from: default
+        to: teamList
+      entryTypes.195ed395-93dc-4560-b1cb-0a1ffcd98ec6.name:
+        from: Default
+        to: 'Team List'
+  -
+    changed:
+      meta.__names__.195ed395-93dc-4560-b1cb-0a1ffcd98ec6:
+        from: Default
+        to: 'Team List'

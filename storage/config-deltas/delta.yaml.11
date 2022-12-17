@@ -1,0 +1,14 @@
+dateApplied: '2022-12-17 01:58:56'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1671269772
+        to: 1671271136
+  -
+    message: 'Save entry type “contact”'
+    changed:
+      entryTypes.7c14f2bf-3587-4b2e-b6a6-da3241e6c423.hasTitleField:
+        from: false
+        to: true

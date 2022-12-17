@@ -1,0 +1,19 @@
+dateApplied: '2022-12-16 15:56:57'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1671235011
+        to: 1671235017
+  -
+    message: 'Save field “photo”'
+    changed:
+      fields.07a8eb6f-a12f-4e37-83d5-227b019a9659.name:
+        from: 'member photo'
+        to: 'Member photo'
+  -
+    changed:
+      meta.__names__.07a8eb6f-a12f-4e37-83d5-227b019a9659:
+        from: 'member photo'
+        to: 'Member photo'

@@ -1,0 +1,17 @@
+dateApplied: '2022-12-16 15:03:00'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1671231746
+        to: 1671231780
+  -
+    message: 'Save section “teamList”'
+    changed:
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.template:
+        from: team-list/_entry
+        to: _/pages/team/team.twig
+      sections.7c4b5296-39c2-4009-bb52-3e1648f66c12.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.uriFormat:
+        from: 'team-list/{slug}'
+        to: team

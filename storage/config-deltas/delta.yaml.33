@@ -1,0 +1,227 @@
+dateApplied: '2022-12-16 15:44:01'
+changes:
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.0.elementCondition': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.0.fieldUid': b75e31bf-0913-41b7-93ee-2925c7e907d6
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.0.instructions': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.0.label': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.0.required': true
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.0.tip': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.0.type': craft\fieldlayoutelements\CustomField
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.0.uid': 618e96f9-ef17-4cbd-8ad1-5521acec5280
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.0.userCondition': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.0.warning': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.0.width': 100
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.1.elementCondition': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.1.fieldUid': f0834417-81ef-4b86-83ef-a2eef2cbcc9e
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.1.instructions': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.1.label': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.1.required': true
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.1.tip': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.1.type': craft\fieldlayoutelements\CustomField
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.1.uid': 53c1f80b-1dfb-4a3a-b6c5-061c74db32b5
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.1.userCondition': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.1.warning': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.1.width': 100
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.2.elementCondition': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.2.fieldUid': 0590dbbe-c026-4398-87bd-fe00fa4af6fa
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.2.instructions': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.2.label': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.2.required': true
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.2.tip': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.2.type': craft\fieldlayoutelements\CustomField
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.2.uid': 4c23de26-6c37-41ed-9f27-30fe6b921c3f
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.2.userCondition': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.2.warning': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elements.2.width': 100
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.selectionCondition.__assoc__.0.0': elementType
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.selectionCondition.__assoc__.0.1': craft\elements\Asset
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.selectionCondition.__assoc__.1.0': fieldContext
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.selectionCondition.__assoc__.1.1': global
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.selectionCondition.__assoc__.2.0': class
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.selectionCondition.__assoc__.2.1': craft\elements\conditions\assets\AssetCondition
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.elementCondition': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.name': Content
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.uid': b69c8b78-37f8-4412-af7e-3a0f868f6383
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fieldLayouts.64316ee2-63cb-4b84-bfe8-28ac8ad44903.tabs.0.userCondition': null
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.allowedKinds.0': image
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.sources.0': 'volume:58fb83eb-858d-46fe-89b1-554c0b228b03'
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.settings.allowLimit': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.settings.allowMultipleSources': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.settings.allowSelfRelations': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.settings.branchLimit': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.settings.localizeRelations': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.settings.maxRelations': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.settings.minRelations': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.settings.selectionLabel': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.settings.showSiteMenu': true
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.settings.source': 'group:f4068a68-e668-4058-a00b-bdaa140e3d1c'
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.settings.sources': '*'
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.settings.targetSiteId': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.settings.validateRelatedElements': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.settings.viewMode': null
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.allowSelfRelations': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.allowSubfolders': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.allowUploads': true
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.defaultUploadLocationSource': 'volume:58fb83eb-858d-46fe-89b1-554c0b228b03'
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.defaultUploadLocationSubpath': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.localizeRelations': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.maxRelations': 1
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.minRelations': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.previewMode': full
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.restrictFiles': true
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.restrictLocation': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.restrictedDefaultUploadSubpath': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.restrictedLocationSource': 'volume:58fb83eb-858d-46fe-89b1-554c0b228b03'
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.restrictedLocationSubpath': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.selectionLabel': 'add a picture'
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.showSiteMenu': true
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.showUnpermittedFiles': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.showUnpermittedVolumes': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.source': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.targetSiteId': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.validateRelatedElements': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.settings.viewMode': large
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.settings.byteLimit': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.settings.charLimit': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.settings.code': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.settings.columnType': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.settings.initialRows': 4
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.settings.multiline': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.settings.placeholder': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.settings.uiMode': normal
+  -
+    added:
+      'sections.projectsList--330c05cf-fcec-4202-bf67-b50022950756 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.enabledByDefault': true
+      'sections.projectsList--330c05cf-fcec-4202-bf67-b50022950756 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.hasUrls': true
+      'sections.projectsList--330c05cf-fcec-4202-bf67-b50022950756 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.template': _/pages/projects/projects.twig
+      'sections.projectsList--330c05cf-fcec-4202-bf67-b50022950756 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.uriFormat': projects
+  -
+    added:
+      'sections.projects--43152f16-1cbd-44a8-bf66-aa0c38d63287 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.enabledByDefault': true
+      'sections.projects--43152f16-1cbd-44a8-bf66-aa0c38d63287 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.hasUrls': true
+      'sections.projects--43152f16-1cbd-44a8-bf66-aa0c38d63287 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.template': _/pages/projects/_entry.twig
+      'sections.projects--43152f16-1cbd-44a8-bf66-aa0c38d63287 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.uriFormat': 'projects/{slug}'
+  -
+    added:
+      'sections.home--21038002-abbe-49d2-8d3e-1253f7f381e5 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.enabledByDefault': true
+      'sections.home--21038002-abbe-49d2-8d3e-1253f7f381e5 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.hasUrls': true
+      'sections.home--21038002-abbe-49d2-8d3e-1253f7f381e5 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.template': _/pages/home.twig
+      'sections.home--21038002-abbe-49d2-8d3e-1253f7f381e5 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.uriFormat': __home__
+  -
+    added:
+      'sections.teamList--7c4b5296-39c2-4009-bb52-3e1648f66c12 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.enabledByDefault': true
+      'sections.teamList--7c4b5296-39c2-4009-bb52-3e1648f66c12 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.hasUrls': true
+      'sections.teamList--7c4b5296-39c2-4009-bb52-3e1648f66c12 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.template': _/pages/team/team.twig
+      'sections.teamList--7c4b5296-39c2-4009-bb52-3e1648f66c12 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.uriFormat': team
+  -
+    added:
+      'sections.team--6fa4a539-3604-41bf-befb-07726f7f702b 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.enabledByDefault': true
+      'sections.team--6fa4a539-3604-41bf-befb-07726f7f702b 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.hasUrls': true
+      'sections.team--6fa4a539-3604-41bf-befb-07726f7f702b 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.template': _/pages/team/_entry.twig
+      'sections.team--6fa4a539-3604-41bf-befb-07726f7f702b 2.siteSettings.7d27545e-9618-4303-8c44-281674ee08a8.uriFormat': 'team/{slug}'
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.columnSuffix': yzkigqhi
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.contentColumnType': string
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.fieldGroup': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.handle': jobFunction
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.instructions': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.name': 'job function'
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.searchable': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.translationKeyFormat': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.translationMethod': site
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.0590dbbe-c026-4398-87bd-fe00fa4af6fa.type': craft\fields\Categories
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.columnSuffix': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.contentColumnType': string
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.fieldGroup': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.handle': photo
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.instructions': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.name': photo
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.searchable': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.translationKeyFormat': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.translationMethod': site
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.b75e31bf-0913-41b7-93ee-2925c7e907d6.type': craft\fields\Assets
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.columnSuffix': axnhhfcq
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.contentColumnType': text
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.fieldGroup': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.handle': namemember
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.instructions': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.name': nameMember
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.searchable': false
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.translationKeyFormat': null
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.translationMethod': none
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.fields.f0834417-81ef-4b86-83ef-a2eef2cbcc9e.type': craft\fields\PlainText
+  -
+    added:
+      'sections.projectsList--330c05cf-fcec-4202-bf67-b50022950756 2.defaultPlacement': end
+      'sections.projectsList--330c05cf-fcec-4202-bf67-b50022950756 2.enableVersioning': true
+      'sections.projectsList--330c05cf-fcec-4202-bf67-b50022950756 2.handle': projectsList
+      'sections.projectsList--330c05cf-fcec-4202-bf67-b50022950756 2.name': 'Projects list'
+      'sections.projectsList--330c05cf-fcec-4202-bf67-b50022950756 2.propagationMethod': all
+      'sections.projectsList--330c05cf-fcec-4202-bf67-b50022950756 2.type': single
+  -
+    added:
+      'sections.projects--43152f16-1cbd-44a8-bf66-aa0c38d63287 2.defaultPlacement': end
+      'sections.projects--43152f16-1cbd-44a8-bf66-aa0c38d63287 2.enableVersioning': true
+      'sections.projects--43152f16-1cbd-44a8-bf66-aa0c38d63287 2.handle': projects
+      'sections.projects--43152f16-1cbd-44a8-bf66-aa0c38d63287 2.name': Projects
+      'sections.projects--43152f16-1cbd-44a8-bf66-aa0c38d63287 2.propagationMethod': all
+      'sections.projects--43152f16-1cbd-44a8-bf66-aa0c38d63287 2.type': channel
+  -
+    added:
+      'sections.home--21038002-abbe-49d2-8d3e-1253f7f381e5 2.defaultPlacement': end
+      'sections.home--21038002-abbe-49d2-8d3e-1253f7f381e5 2.enableVersioning': true
+      'sections.home--21038002-abbe-49d2-8d3e-1253f7f381e5 2.handle': home
+      'sections.home--21038002-abbe-49d2-8d3e-1253f7f381e5 2.name': Home
+      'sections.home--21038002-abbe-49d2-8d3e-1253f7f381e5 2.propagationMethod': all
+      'sections.home--21038002-abbe-49d2-8d3e-1253f7f381e5 2.type': single
+  -
+    added:
+      'sections.teamList--7c4b5296-39c2-4009-bb52-3e1648f66c12 2.defaultPlacement': end
+      'sections.teamList--7c4b5296-39c2-4009-bb52-3e1648f66c12 2.enableVersioning': true
+      'sections.teamList--7c4b5296-39c2-4009-bb52-3e1648f66c12 2.handle': teamList
+      'sections.teamList--7c4b5296-39c2-4009-bb52-3e1648f66c12 2.name': 'Team List'
+      'sections.teamList--7c4b5296-39c2-4009-bb52-3e1648f66c12 2.propagationMethod': all
+      'sections.teamList--7c4b5296-39c2-4009-bb52-3e1648f66c12 2.type': single
+  -
+    added:
+      'sections.team--6fa4a539-3604-41bf-befb-07726f7f702b 2.defaultPlacement': end
+      'sections.team--6fa4a539-3604-41bf-befb-07726f7f702b 2.enableVersioning': true
+      'sections.team--6fa4a539-3604-41bf-befb-07726f7f702b 2.handle': team
+      'sections.team--6fa4a539-3604-41bf-befb-07726f7f702b 2.name': Team
+      'sections.team--6fa4a539-3604-41bf-befb-07726f7f702b 2.propagationMethod': all
+      'sections.team--6fa4a539-3604-41bf-befb-07726f7f702b 2.type': channel
+  -
+    added:
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.field': 896d1639-72b8-4016-9655-e90448d87539
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.handle': member
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.name': member
+      'matrixBlockTypes.member--6cdd3308-b983-4add-978c-6d0ebb84f14a 2.sortOrder': 1

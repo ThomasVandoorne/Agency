@@ -1,0 +1,32 @@
+dateApplied: '2022-12-17 01:35:39'
+changes:
+  -
+    message: 'Update timestamp for project config'
+    changed:
+      dateModified:
+        from: 1671267940
+        to: 1671269739
+  -
+    added:
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.elementCondition: null
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.elements.0.elementCondition: null
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.elements.0.fieldUid: e3f755a7-f851-4ec8-99a3-bc56a6ff887c
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.elements.0.instructions: null
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.elements.0.label: null
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.elements.0.required: false
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.elements.0.tip: null
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.elements.0.type: craft\fieldlayoutelements\CustomField
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.elements.0.uid: e53dd3c2-593f-4634-9463-5d1972508c92
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.elements.0.userCondition: null
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.elements.0.warning: null
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.elements.0.width: 100
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.name: content
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.uid: e442e4fb-f765-485d-9d0c-fb1c90a7086b
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.fieldLayouts.3aa6464d-a9df-4aa8-964e-64ae50f79ccd.tabs.0.userCondition: null
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.handle: footer
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.name: footer
+      globalSets.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b.sortOrder: 2
+    message: 'Save global set “footer”'
+  -
+    added:
+      meta.__names__.3551cff9-55f5-4fc1-b3a1-2e9a7d03474b: footer
