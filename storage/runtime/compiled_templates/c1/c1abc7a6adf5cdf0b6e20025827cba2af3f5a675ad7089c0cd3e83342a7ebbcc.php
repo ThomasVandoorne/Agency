@@ -44,7 +44,7 @@ class __TwigTemplate_f01cfd00fdc1033fe11260db25537505bb57c505e749106a477c18d6a29
             if ((isset($context["alerts"]) || array_key_exists("alerts", $context) ? $context["alerts"] : (function () { throw new RuntimeError('Variable "alerts" does not exist.', 3, $this->source); })())) {
                 // line 4
                 echo "    ";
-                $this->loadTemplate("_layouts/components/alerts", "_layouts/components/alerts", 4, "1502511558")->display(twig_to_array(["alerts" =>                 // line 5
+                $this->loadTemplate("_layouts/components/alerts", "_layouts/components/alerts", 4, "731400686")->display(twig_to_array(["alerts" =>                 // line 5
 (isset($context["alerts"]) || array_key_exists("alerts", $context) ? $context["alerts"] : (function () { throw new RuntimeError('Variable "alerts" does not exist.', 5, $this->source); })()), "type" => "ul", "attributes" => ["id" => "alerts"], "style" => ["display" => "block", "position" => "relative", "background-color" => "var(--red-050)", "border-left" => "5px solid var(--error-color)", "padding" => "11px 0", "text-align" => "center", "color" => "var(--error-color)"]]));
                 // line 44
                 echo "  ";
@@ -137,7 +137,7 @@ class __TwigTemplate_f01cfd00fdc1033fe11260db25537505bb57c505e749106a477c18d6a29
 
 
 /* _layouts/components/alerts */
-class __TwigTemplate_f01cfd00fdc1033fe11260db25537505bb57c505e749106a477c18d6a29458fa___1502511558 extends Template
+class __TwigTemplate_f01cfd00fdc1033fe11260db25537505bb57c505e749106a477c18d6a29458fa___731400686 extends Template
 {
     private $source;
     private $macros = [];
@@ -180,7 +180,7 @@ class __TwigTemplate_f01cfd00fdc1033fe11260db25537505bb57c505e749106a477c18d6a29
         foreach ($context['_seq'] as $context["_key"] => $context["alert"]) {
             // line 22
             echo "          ";
-            $this->loadTemplate("_layouts/components/alerts", "_layouts/components/alerts", 22, "158173502")->display(twig_to_array(["alert" =>             // line 23
+            $this->loadTemplate("_layouts/components/alerts", "_layouts/components/alerts", 22, "1869704202")->display(twig_to_array(["alert" =>             // line 23
 $context["alert"], "type" => "li", "style" => ["display" => "block", "padding" => "4px var(--xl)"]]));
             // line 41
             echo "        ";
@@ -267,7 +267,7 @@ $context["alert"], "type" => "li", "style" => ["display" => "block", "padding" =
 
 
 /* _layouts/components/alerts */
-class __TwigTemplate_f01cfd00fdc1033fe11260db25537505bb57c505e749106a477c18d6a29458fa___158173502 extends Template
+class __TwigTemplate_f01cfd00fdc1033fe11260db25537505bb57c505e749106a477c18d6a29458fa___1869704202 extends Template
 {
     private $source;
     private $macros = [];

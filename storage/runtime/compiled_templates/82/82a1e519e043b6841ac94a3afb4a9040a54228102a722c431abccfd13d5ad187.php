@@ -12,7 +12,7 @@ use Twig\Sandbox\SecurityNotAllowedFunctionError;
 use Twig\Source;
 use Twig\Template;
 
-/* _includes/forms/lightswitch */
+/* _includes/forms/lightswitch.twig */
 class __TwigTemplate_2ff9a4f3b057ef8c62ab39b14bdf34d70ca21df50c09326d77b779b5e8bf7886 extends Template
 {
     private $source;
@@ -33,7 +33,7 @@ class __TwigTemplate_2ff9a4f3b057ef8c62ab39b14bdf34d70ca21df50c09326d77b779b5e8b
     protected function doDisplay(array $context, array $blocks = [])
     {
         $macros = $this->macros;
-        craft\helpers\Template::beginProfile("template", "_includes/forms/lightswitch");
+        craft\helpers\Template::beginProfile("template", "_includes/forms/lightswitch.twig");
         // line 1
         $context["id"] = (($context["id"]) ?? (("lightswitch" . twig_random($this->env))));
         // line 2
@@ -162,12 +162,12 @@ $context["containerAttributes"]) ?? ([])), true);
             echo "    ";
             echo twig_escape_filter($this->env, (isset($context["input"]) || array_key_exists("input", $context) ? $context["input"] : (function () { throw new RuntimeError('Variable "input" does not exist.', 81, $this->source); })()), "html", null, true);
         }
-        craft\helpers\Template::endProfile("template", "_includes/forms/lightswitch");
+        craft\helpers\Template::endProfile("template", "_includes/forms/lightswitch.twig");
     }
 
     public function getTemplateName()
     {
-        return "_includes/forms/lightswitch";
+        return "_includes/forms/lightswitch.twig";
     }
 
     public function isTraitable()
@@ -264,6 +264,6 @@ $context["containerAttributes"]) ?? ([])), true);
 {% else %}
     {{ input }}
 {%- endif %}
-", "_includes/forms/lightswitch", "/var/www/html/vendor/craftcms/cms/src/templates/_includes/forms/lightswitch.twig");
+", "_includes/forms/lightswitch.twig", "/var/www/html/vendor/craftcms/cms/src/templates/_includes/forms/lightswitch.twig");
     }
 }
